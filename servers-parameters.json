@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "ManuelDominicUdacityProject"
+	},
+	{
+		"ParameterKey": "AMImage",
+		"ParameterValue": "ami-09d56f8956ab235b3"
+	},
+	{
+		"ParameterKey": "BucketName",
+		"ParameterValue": "manuel-1974215-udacity"
+	}
+]
