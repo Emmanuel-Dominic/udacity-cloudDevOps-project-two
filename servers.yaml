@@ -88,7 +88,6 @@ Resources:
           sudo systemctl start apache2.service
           echo "<h1>CloudFormation Project Challenge Two<h1>" > /var/www/html/index.html
       ImageId: !Ref AMImage
-      KeyName: udacity-key
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.medium
